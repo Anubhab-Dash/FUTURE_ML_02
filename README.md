@@ -80,7 +80,7 @@ In this hands-on project, we use **real-world customer data** to build, train, a
 
 ## 📸 Dashboard Snapshots
 
-> 
+> <img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/2f3dfcb8-10fe-455d-9b92-c40d7eca5a58" />
 
 ---
 
@@ -106,6 +106,7 @@ In this hands-on project, we use **real-world customer data** to build, train, a
 ## 🧑‍💻 Author
 
 Anubhab Dash 
+
 Task 2: Churn Prediction System – Internship Project  
 [GitHub](https://github.com/Anubhab-Dash) | [LinkedIn](www.linkedin.com/in/anubhab-dash-93895a236)
 
